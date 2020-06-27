@@ -9,3 +9,24 @@ spring:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 
+#==================== Redirect URL Information==============
+#===========================================================
+#local
+#redirect.url=http://localhost:7001/supportapp
+
+#local development mode urls
+#redirect.url=http://localhost:8080
+redirect.url=http://localhost:4200
+
+
+
+
+
+
+spring.http.multipart.max-file-size=500KB
+spring.http.multipart.max-request-size=500KB
+
+#=================== Upload Directory Information =======================
+#========================================================================
+#Live
+upload.directory=D:/upload

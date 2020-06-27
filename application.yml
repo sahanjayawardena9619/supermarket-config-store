@@ -16,17 +16,17 @@ spring:
 
 #local development mode urls
 #redirect.url=http://localhost:8080
-redirect.url=http://localhost:4200
+#redirect.url=http://localhost:4200
 
 
 
 
 
 
-spring.http.multipart.max-file-size=500KB
-spring.http.multipart.max-request-size=500KB
+#spring.http.multipart.max-file-size=500KB
+#spring.http.multipart.max-request-size=500KB
 
 #=================== Upload Directory Information =======================
 #========================================================================
 #Live
-upload.directory=D:/upload
+#upload.directory=D:/upload

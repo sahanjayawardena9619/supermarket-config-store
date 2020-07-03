@@ -1,0 +1,9 @@
+Config Server	: 8191
+
+Customer 	: 8192
+Product		: 8193
+Stock		: 8194
+Order		: 8195
+Cart		: 8196
+
+

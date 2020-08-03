@@ -6,5 +6,6 @@ Stock		: 8194
 Order		: 8195
 Cart		: 8196
 Category	: 8197
+auth		: 8198
 
 
